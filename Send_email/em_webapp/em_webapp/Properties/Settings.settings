@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="em_webapp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="em_webapp_em_ref_WebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://vhost2001.site1.compute.ihost.com/aspnet_client/em_web/WebService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
