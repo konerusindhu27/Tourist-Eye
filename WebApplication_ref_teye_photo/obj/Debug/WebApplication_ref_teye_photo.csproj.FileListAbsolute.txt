@@ -1,0 +1,5 @@
+c:\users\ashok\documents\visual studio 2010\Projects\WebApplication_ref_teye_photo\WebApplication_ref_teye_photo\bin\WebApplication_ref_teye_photo.dll
+c:\users\ashok\documents\visual studio 2010\Projects\WebApplication_ref_teye_photo\WebApplication_ref_teye_photo\bin\WebApplication_ref_teye_photo.pdb
+c:\users\ashok\documents\visual studio 2010\Projects\WebApplication_ref_teye_photo\WebApplication_ref_teye_photo\obj\Debug\WebApplication_ref_teye_photo.dll
+c:\users\ashok\documents\visual studio 2010\Projects\WebApplication_ref_teye_photo\WebApplication_ref_teye_photo\obj\Debug\WebApplication_ref_teye_photo.pdb
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\WebApplication_ref_teye_photo\WebApplication_ref_teye_photo\obj\Debug\WebApplication_ref_teye_photo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\ashok\documents\visual studio 2010\Projects\TeyeLogin\TeyeLogin\bin\TeyeLogin.dll
+c:\users\ashok\documents\visual studio 2010\Projects\TeyeLogin\TeyeLogin\bin\TeyeLogin.pdb
+c:\users\ashok\documents\visual studio 2010\Projects\TeyeLogin\TeyeLogin\obj\Debug\TeyeLogin.dll
+c:\users\ashok\documents\visual studio 2010\Projects\TeyeLogin\TeyeLogin\obj\Debug\TeyeLogin.pdb
+C:\Users\Ashok\Documents\Visual Studio 2010\Projects\TeyeLogin\TeyeLogin\obj\Debug\TeyeLogin.csprojResolveAssemblyReference.cache
